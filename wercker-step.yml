@@ -1,0 +1,9 @@
+name: environment-config
+version: 0.0.2
+description: Consistently apply environment config values
+keywords:
+  - validate
+  - environment
+  - config
+  - application
+  - kubernetes
